@@ -24,7 +24,7 @@ Run the following command to install Playwright:
 ```bash
 pip install playwright
 2. Install BrowsersDownload the required browser binaries (Chromium):Bashplaywright install chromium
-
+```
 📂 SetupCreate a file named numbers.txt in the same directory as the script.Add your phone numbers (one per line). Include the country code.Example numbers.txt:Plaintext966500000000
 201000000000
 971500000000
